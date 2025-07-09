@@ -1,0 +1,2 @@
+# EdgeAiProtocolSystemsUltra
+Advanced EdgeAiProtocolSystemsUltra project
